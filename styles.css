@@ -63,3 +63,8 @@ body {
 #bottom a:hover {
   color: #87CEEB;
 }
+
+
+.contact-icons a {
+  text-decoration: none;
+}
