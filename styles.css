@@ -1,24 +1,24 @@
-
-.right-column {
-  float: right;
-  margin-top: 30px;
-  margin-right: 110px;
-  width: 600px;
+.main {
+  display: block;
+}
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 80px;
+  color: #808080;
+  margin-bottom: 0;
+}
+h2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 80px;
+  color: #808080;
+  margin: 0 0 20px 0;
 }
 .hello {
   font-family: 'Open Sans Condensed', sans-serif;
-  width: 350px;
-  position: fixed;
-  margin-top: 250px;
   font-size: 20px;
   color: #808080;
 }
-
 .contact {
-  height:300px;
-  width: 350px;
-  position: fixed;
-  margin-top: 450px;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 20px;
   color: #696969;
@@ -27,22 +27,8 @@
   height: 40px;
   width: 40px;
 }
-h1 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 80px;
-  color: #808080;
-  position: fixed;
-  margin-top: 30px;
-}
-h2 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 80px;
-  color: #808080;
-  position: fixed;
-  margin-top: 110px;
-}
-body {
-  margin-left: 180px;
+.right-column {
+  display: block;
 }
 #bottom {
   text-align: center;
@@ -56,15 +42,13 @@ body {
   padding-top: 5px;
   padding-bottom: 0px;
 }
-#bottom a{
+#bottom a {
   text-decoration: none;
   color: #ffffff;
 }
 #bottom a:hover {
   color: #87CEEB;
 }
-
-
 .contact-icons a {
   text-decoration: none;
 }
