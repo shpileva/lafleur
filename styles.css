@@ -8,13 +8,13 @@ body {
 }
 h1 {
   font-size: 90px;
-  color: #808080;
+  color: black;
   margin-bottom: 0;
   font-family: 'Ostrich Sans', 'Open Sans Condensed', sans-serif;
 }
 h2 {
   font-size: 90px;
-  color: #808080;
+  color: black;
   margin: 0 0 20px 0;
   font-family: 'Ostrich Sans', 'Open Sans Condensed', sans-serif;
 }
