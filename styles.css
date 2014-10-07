@@ -7,22 +7,26 @@ body {
   display: block;
 }
 h1 {
-  font-size: 80px;
+  font-size: 90px;
   color: #808080;
   margin-bottom: 0;
+  font-family: 'Ostrich Sans', 'Open Sans Condensed', sans-serif;
 }
 h2 {
-  font-size: 80px;
+  font-size: 90px;
   color: #808080;
   margin: 0 0 20px 0;
+  font-family: 'Ostrich Sans', 'Open Sans Condensed', sans-serif;
 }
 .hello {
   font-size: 20px;
   color: #808080;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 .contact {
   font-size: 20px;
   color: #696969;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 .contact img {
   height: 40px;
@@ -32,6 +36,7 @@ h2 {
   display: block;
 }
 #bottom {
+  font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
   height: 30px;
   width: 80px;
