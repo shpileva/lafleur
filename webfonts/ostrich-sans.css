@@ -1,0 +1,9 @@
+/* Ostrich Sans */
+
+@font-face {
+	font-family: 'Ostrich Sans';
+	src: url('ostrich-sans-black.eot');
+	src: local('☺'), url('ostrich-sans-black.woff') format('woff'), url('ostrich-sans-black.ttf') format('truetype'), url('ostrich-sans-black.svg') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}

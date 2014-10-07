@@ -1,25 +1,26 @@
+@import 'webfonts/ostrich-sans.css';
+
+body {
+    font-family: 'Ostrich Sans', 'Open Sans Condensed', sans-serif;
+}
 .main {
   display: block;
 }
 h1 {
-  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 80px;
   color: #808080;
   margin-bottom: 0;
 }
 h2 {
-  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 80px;
   color: #808080;
   margin: 0 0 20px 0;
 }
 .hello {
-  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 20px;
   color: #808080;
 }
 .contact {
-  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 20px;
   color: #696969;
 }
@@ -37,7 +38,6 @@ h2 {
   border: 2px solid #696969;
   border-radius: 5px;
   background-color: #696969;
-  font-family: 'Open Sans Condensed', sans-serif;
   margin: auto;
   padding-top: 5px;
   padding-bottom: 0px;
