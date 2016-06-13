@@ -12,7 +12,8 @@ h2 {
   }
 .hello {
   position: fixed;
-  margin-top: 260px;
+  margin-top: 220px;
+  margin-bottom: 50px;
   width: 350px;
   float: left;
 }
